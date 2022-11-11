@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpringTest2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringTest2_jar</output-path>
+    <root id="archive" name="SpringTest2.jar">
+      <element id="module-output" name="SpringTest2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.23/spring-jcl-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.23/spring-beans-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.23/spring-context-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/attoparser/attoparser/2.0.5.RELEASE/attoparser-2.0.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.23/spring-webmvc-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/thymeleaf-spring5-3.0.15.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.15.RELEASE/thymeleaf-3.0.15.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.23/spring-web-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.23/spring-aop-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.3/slf4j-api-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.23/spring-core-5.3.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.3.23/spring-expression-5.3.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
